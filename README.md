@@ -1,8 +1,16 @@
 <h1 align="center">🚀 LeetCode Grind 🧠💥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Level+Up+Every+Day!;Code,+Debug,+Repeat.;Solving+LeetCode+like+a+Boss!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Level+Up+Every+Day!;Code,+Debug,+Repeat.&center=true&width=500&height=45">
 </p>
+
+<p align="center">
+  🏆 <strong>LeetCode Streaks:</strong><br>
+  <img src="https://img.shields.io/badge/50%20Days%20Streak-%23FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/100%20Days%20Streak-%23FF4500?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/150%20Days%20Streak-%23FF0000?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
 
 <p align="center">
   <a href="https://leetcode.com/SHIKHAR_SHAURYA/" target="_blank">
