@@ -64,7 +64,7 @@ Whether you're:
 ## ⚔️ Daily Streaks & Battles
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxZTVyZnAyZnlvbzFlYjB2bWI2NmpibnI4eDkwODNkZnUyM3JndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gsgIkXW0U9O9Udy/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 | Date  | Questions Solved | Topics                   |
@@ -74,6 +74,7 @@ Whether you're:
 | ...   | ...              | ...                      |
 
 > 🧨 *Every problem I solve is a step closer to mastery.*
+
 
 ---
 
