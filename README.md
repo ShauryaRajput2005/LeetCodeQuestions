@@ -29,6 +29,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-snake.svg" alt="Snake animation" />
 </p>
+## 🐍 LeetCode Commit Snake
+
+![GitHub Snake Light](https://github.com/ShauryaRajput2005/LeetCodeQuestions/blob/output/snake.svg)
+
+![GitHub Snake Dark](https://github.com/ShauryaRajput2005/LeetCodeQuestions/blob/output/snake-dark.svg?palette=github-dark)
+
 
 > 🐍 Shows your activity streak and contribution history in style. Configured via GitHub Actions.
 
