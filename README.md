@@ -17,7 +17,7 @@
 ## 📊 LeetCode Stats (Live)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/https:/SHIKHAR_SHAURYA/?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats">
 </p>
 
 > 🧠 Shows total problems solved, ranking, contest performance, and recent activity. Auto-updates daily.
