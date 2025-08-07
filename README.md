@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/SHIKHAR_SHAURYA/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
   </a>
   <img src="https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java">
