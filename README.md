@@ -23,17 +23,20 @@
 > 🧠 Shows total problems solved, ranking, contest performance, and recent activity. Auto-updates daily.
 
 ---
-## 📈 Contribution Graph 
+
+## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRajput2005&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-## 🐍 LeetCode Commit
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShauryaRajput2005&theme=default&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
-![GitHub Snake Light](https://github.com/ShauryaRajput2005/LeetCodeQuestions/blob/output/snake.svg)
-
-![GitHub Snake Dark](https://github.com/ShauryaRajput2005/LeetCodeQuestions/blob/output/snake-dark.svg?palette=github-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRajput2005&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
