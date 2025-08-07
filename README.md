@@ -14,6 +14,17 @@
 
 ---
 
+## 🏅 LeetCode Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100_Days_Streak-Badge-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/300%2B_Problems-Solved-brightgreen?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Contest_Participation-25%2B-blue?style=for-the-badge&logo=leetcode" />
+</p>
+
+
+---
+
 ## 📊 LeetCode Stats (Live)
 
 <p align="center">
@@ -24,21 +35,6 @@
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaRajput2005&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShauryaRajput2005&theme=default&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRajput2005&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ## ✨ About This Repository
 
@@ -99,7 +95,7 @@ This isn't just for interviews. It's for building **discipline**, **consistency*
 
 ---
 
-## 🚀 Let’s Connect
+## 🚀 Profiles
 
 - 👨‍💻 [LeetCode Profile](https://leetcode.com/SHIKHAR_SHAURYA/)
 - 🌐 [GitHub Portfolio](https://github.com/ShauryaRajput2005)
