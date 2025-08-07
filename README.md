@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Level+Up+Every+Day!;Code,+Debug,+Repeat.&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  🏆 <strong>LeetCode Streaks:</strong><br>
-  <img src="https://img.shields.io/badge/50%20Days%20Streak-%23FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/100%20Days%20Streak-%23FF4500?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/150%20Days%20Streak-%23FF0000?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
 
 
 <p align="center">
@@ -20,15 +14,6 @@
   <img src="https://img.shields.io/badge/Commitment-100%25🔥-brightgreen?style=for-the-badge">
 </p>
 
----
-
-## 🏅 LeetCode Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/100_Days_Streak-Badge-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/300%2B_Problems-Solved-brightgreen?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Contest_Participation-25%2B-blue?style=for-the-badge&logo=leetcode" />
-</p>
 
 
 ---
