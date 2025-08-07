@@ -83,7 +83,7 @@ Whether you're:
 ## 🧙‍♂️ Why This Repo?
 
 > “The more you sweat in practice, the less you bleed in battle.”  
-> — **Sun Tzu, probably**
+> — **Sun Tzu**
 
 This isn't just for interviews. It's for building **discipline**, **consistency**, and **problem-solving mastery**.
 
