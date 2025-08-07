@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/SHIKHAR_SHAURYA/" target="_blank">
+  <a href="https://leetcode.com/SHIKHAR_SHAURYA/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
   </a>
   <img src="https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java">
@@ -17,7 +17,7 @@
 ## 📊 LeetCode Stats (Live)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https:/SHIKHAR_SHAURYA/?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/SHIKHAR_SHAURYA?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats">
 </p>
 
 > 🧠 Shows total problems solved, ranking, contest performance, and recent activity. Auto-updates daily.
@@ -27,7 +27,7 @@
 ## 📈 Contribution Graph (Snake Animation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ShauryaRajput2005/ShauryaRajput2005/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 > 🐍 Shows your activity streak and contribution history in style. Configured via GitHub Actions.
@@ -51,6 +51,12 @@ Whether you're:
 ## 🧩 What You'll Find Here
 
 ✅ Clean, readable, and efficient **Java solutions**  
+✅ Categorized by **topic**, **difficulty**, and **status**  
+✅ Each solution includes:
+- 🔍 Thought process
+- 💡 Approach
+- ⏱️ Time & Space complexity
+
 ---
 
 ## ⚔️ Daily Streaks & Battles
@@ -59,11 +65,11 @@ Whether you're:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIxZTVyZnAyZnlvbzFlYjB2bWI2NmpibnI4eDkwODNkZnUyM3JndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gsgIkXW0U9O9Udy/giphy.gif" width="300" />
 </p>
 
-| Date  | Questions Solved | Topics                  |
-|-------|------------------|-------------------------|
-| Aug 7 | 3                | Arrays, Subarrays       |
+| Date  | Questions Solved | Topics                   |
+|-------|------------------|--------------------------|
+| Aug 7 | 3                | Arrays, Subarrays        |
 | Aug 6 | 4                | Binary Trees, Prefix Sum |
-| ...   | ...              | ...                     |
+| ...   | ...              | ...                      |
 
 > 🧨 *Every problem I solve is a step closer to mastery.*
 
@@ -89,8 +95,8 @@ This isn't just for interviews. It's for building **discipline**, **consistency*
 
 ## 🚀 Let’s Connect
 
-- 👨‍💻 [LeetCode Profile](https://leetcode.com/u/SHIKHAR_SHAURYA/)
-- 🌐 [Portfolio](https://github.com/ShauryaRajput2005)
+- 👨‍💻 [LeetCode Profile](https://leetcode.com/SHIKHAR_SHAURYA/)
+- 🌐 [GitHub Portfolio](https://github.com/ShauryaRajput2005)
 
 ---
 
