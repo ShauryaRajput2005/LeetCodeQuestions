@@ -25,6 +25,17 @@ jobs:
         env:
           LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
         run: python update_leetcode.py
+      
+      - name: Debug LeetCode data
+        run: |
+          echo "=== Debugging LeetCode Submissions ==="
+          python - <<'EOF'
+          from update_leetcode import get_recent_submissions
+          subs = get_recent_submissions()
+          for s in subs:
+              print(s)
+          EOF
+
 
       - name: Commit changes
         env:
