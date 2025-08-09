@@ -54,20 +54,14 @@ Whether you're:
 
 ---
 
-## ⚔️ Daily Streaks & Battles
+## 🏹 LeetCode Grind & Streaks
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-| Date  | Questions Solved | Topics                   |
-|-------|------------------|--------------------------|
-| Aug 7 | 3                | Arrays, Subarrays        |
-| Aug 6 | 4                | Binary Trees, Prefix Sum |
-| ...   | ...              | ...                      |
-
-> 🧨 *Every problem I solve is a step closer to mastery.*
-
+| Date       | Problems Solved | Topics |
+|------------|-----------------|--------|
 
 ---
 
