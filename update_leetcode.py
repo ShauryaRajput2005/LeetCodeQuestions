@@ -76,3 +76,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+import sys
+if __name__ == "__main__":
+    if "--debug" in sys.argv:
+        print("Running in debug mode...")
+        # Replace this with the function or code that fetches and prints your submissions
+        # Example:
+        submissions = get_recent_submissions()  # Or however your script fetches data
+        print(submissions)
+    else:
+        # Your normal script flow
+        main()
+
