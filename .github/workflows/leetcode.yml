@@ -29,12 +29,9 @@ jobs:
       - name: Debug LeetCode data
         run: |
           echo "=== Debugging LeetCode Submissions ==="
-          python - <<'EOF'
-          from update_leetcode import get_recent_submissions
-          subs = get_recent_submissions()
-          for s in subs:
-              print(s)
-          EOF
+          cat update_leetcode.py
+          python update_leetcode.py --debug
+
 
 
       - name: Commit changes
