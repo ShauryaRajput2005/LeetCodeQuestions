@@ -2,7 +2,7 @@ class Solution {
     public boolean reorderedPowerOf2(int n) {
         String target = digitsort(n);
 
-        for (int i = 0; i < 31; i++) {
+        for (int i = 0; i < 30; i++) {
             if (target.equals(digitsort(1 << i))) {
                 return true;
             }
