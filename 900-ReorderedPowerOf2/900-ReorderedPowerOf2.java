@@ -1,0 +1,19 @@
+// Last updated: 8/28/2025, 9:53:17 PM
+class Solution {
+    public boolean reorderedPowerOf2(int n) {
+        String target = digitsort(n);
+
+        for (int i = 0; i < 30; i++) {
+            if (target.equals(digitsort(1 << i))) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private String digitsort(int num) {
+        char[] arr = String.valueOf(num).toCharArray();
+        java.util.Arrays.sort(arr);
+        return new String(arr);
+    }
+}
