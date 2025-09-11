@@ -28,8 +28,6 @@ class Solution {
 
         return result.toString();
     }
-
-    // Helper method to check if a character is a vowel (case-insensitive)
     private boolean isVowel(char ch) {
         ch = Character.toLowerCase(ch);
         return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
