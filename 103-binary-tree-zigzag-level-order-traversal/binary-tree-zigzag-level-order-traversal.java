@@ -5,24 +5,22 @@ class Solution {
 
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
-        boolean leftToRight = true;
+        boolean left = true;
 
         while(!q.isEmpty()){
-            int size = q.size();
+            int size=q.size();
             LinkedList<Integer> level = new LinkedList<>();
 
-            while(size-- > 0){
-                TreeNode node = q.poll();
-
-                if(leftToRight) level.addLast(node.val);
-                else level.addFirst(node.val);
-
-                if(node.left != null) q.offer(node.left);
-                if(node.right != null) q.offer(node.right);
+            while(size-->0){
+                TreeNode cur=q.poll();
+                if(left) level.addLast(cur.val);
+                else level.addFirst(cur.val);
+                
+                if(cur.left!=null) q.offer(cur.left); 
+                if(cur.right!=null) q.offer(cur.right); 
             }
-
             ans.add(level);
-            leftToRight = !leftToRight;
+            left=!left;
         }
 
         return ans;
