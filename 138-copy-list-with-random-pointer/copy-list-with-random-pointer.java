@@ -2,7 +2,6 @@ class Solution {
     public Node copyRandomList(Node head) {
         if (head == null) return null;
 
-        // Step 1: Insert copied nodes
         Node curr = head;
         while (curr != null) {
             Node copy = new Node(curr.val);
@@ -11,7 +10,6 @@ class Solution {
             curr = copy.next;
         }
 
-        // Step 2: Assign random pointers
         curr = head;
         while (curr != null) {
             if (curr.random != null) {
@@ -20,7 +18,6 @@ class Solution {
             curr = curr.next.next;
         }
 
-        // Step 3: Separate the lists
         curr = head;
         Node newHead = head.next;
         while (curr != null) {
