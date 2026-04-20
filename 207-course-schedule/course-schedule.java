@@ -1,37 +1,32 @@
 class Solution {
-    public boolean canFinish(int num, int[][] pre) {
-        ArrayList<Integer>[] adj=new ArrayList[num];
-        for(int i=0;i<num;i++){
-            adj[i]=new ArrayList();
+    public boolean canFinish(int nc, int[][] pre) {
+        ArrayList<Integer>[] adj = new ArrayList[nc];
+        for (int i = 0; i < nc; i++) {
+            adj[i] = new ArrayList<>();
         }
-        for(int i=0;i<pre.length;i++){
+        int[] in = new int[nc];
+        for (int i = 0; i < pre.length; i++) {
             adj[pre[i][1]].add(pre[i][0]);
+            in[pre[i][0]]++;
         }
-
-        boolean[] vis=new boolean[num];
-        int[] indeg=new int[num];
-        for(int i=0;i<num;i++){
-            for(int x:adj[i]){
-                indeg[x]++;
+        Queue<Integer> q = new LinkedList();
+        for (int i = 0; i < nc; i++) {
+            if (in[i] == 0) {
+                q.offer(i);
             }
         }
-        Queue<Integer> q=new LinkedList();
-        for(int i=0;i<num;i++){
-            if(indeg[i]==0){
-                q.add(i);
-            }
-        }
-        ArrayList<Integer> res=new ArrayList<>();
-        while(!q.isEmpty()){
-            int cur=q.poll();
-            res.add(cur);
-            for(int x:adj[cur]){
-                indeg[x]--;
-                if(indeg[x]==0){
-                    q.offer(x);
+        ArrayList<Integer> ans = new ArrayList<>();
+        while (!q.isEmpty()) {
+            int cur = q.poll();
+            ans.add(cur);
+            for (int v : adj[cur]) {
+                in[v]--;
+                if (in[v] == 0) {
+                    q.offer(v);
                 }
             }
         }
-        return res.size()==num;
+        System.out.print(ans);
+        return ans.size() == nc;
     }
 }
