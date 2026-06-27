@@ -15,7 +15,7 @@
 
 ---
 
-## ð Live LeetCode Stats
+## Ã°ÂÂÂ Live LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SHIKHAR_SHAURYA?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats Card" />
@@ -23,122 +23,122 @@
 
 ---
 
-## ð§  About This Repository
+## Ã°ÂÂ§Â  About This Repository
 
-This is my personal archive of **450+ LeetCode problems** solved in **Java**, **Python**, and **SQL** â documented, committed, and continuously growing.
+This is my personal archive of **450+ LeetCode problems** solved in **Java**, **Python**, and **SQL** Ã¢ÂÂ documented, committed, and continuously growing.
 
 Every folder is a battle won. Every solution is a sharper mind.
 
-> *"Do not pray for an easy life. Pray for the strength to endure a difficult one."* â Bruce Lee
+> *"Do not pray for an easy life. Pray for the strength to endure a difficult one."* Ã¢ÂÂ Bruce Lee
 
 Whether you're:
-- ð¯ Cracking FAANG / MAANG interviews
-- ð Building your DSA foundations
-- â¡ Competing in weekly contests
-- ð Looking for clean, readable reference solutions
+- Ã°ÂÂÂ¯ Cracking FAANG / MAANG interviews
+- Ã°ÂÂÂ Building your DSA foundations
+- Ã¢ÂÂ¡ Competing in weekly contests
+- Ã°ÂÂÂ Looking for clean, readable reference solutions
 
 **...this repo has you covered.**
 
 ---
 
-## ð Repository Structure
+## Ã°ÂÂÂ Repository Structure
 
 Each problem lives in its own folder, named by problem number and title:
 
 ```
 LeetCodeQuestions/
-âââ 1-TwoSum/
-â   âââ 1-TwoSum.java       â Java solution
-â   âââ 1-TwoSum.py         â Python solution (where applicable)
-âââ 42-TrappingRainWater/
-â   âââ 42-TrappingRainWater.java
-âââ 300-LongestIncreasingSubsequence/
-â   âââ 300-LongestIncreasingSubsequence.java
-âââ ...
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1-TwoSum/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1-TwoSum.java       Ã¢ÂÂ Java solution
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1-TwoSum.py         Ã¢ÂÂ Python solution (where applicable)
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 42-TrappingRainWater/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 42-TrappingRainWater.java
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 300-LongestIncreasingSubsequence/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 300-LongestIncreasingSubsequence.java
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ ...
 ```
 
 ---
 
-## ðï¸ Topics Covered
+## Ã°ÂÂÂÃ¯Â¸Â Topics Covered
 
 | Topic | Examples |
 |-------|---------|
-| ð¢ **Arrays & Hashing** | Two Sum, Product of Array Except Self, Contains Duplicate |
-| ðª **Sliding Window** | Longest Substring Without Repeating, Max Average Subarray |
-| ð **Binary Search** | Search in Rotated Array, Koko Eating Bananas, Find Peak Element |
-| ð **Linked Lists** | Merge K Sorted Lists, Reverse Linked List, LRU Cache |
-| ð³ **Trees & BST** | Max Depth, Level Order Traversal, Validate BST |
-| ð **Graphs & BFS/DFS** | Number of Islands, Course Schedule, Pacific Atlantic Flow |
-| â¡ **Dynamic Programming** | Coin Change, Longest Increasing Subsequence, House Robber |
-| ð¯ **Greedy** | Jump Game, Gas Station, Queue Reconstruction |
-| ð **Stack & Queue** | Valid Parentheses, Trapping Rain Water, Evaluate RPN |
-| ð **Backtracking** | Permutations, Combination Sum, Sudoku Solver |
-| ð¡ **Math & Bit Manipulation** | Power of Two, Missing Number, Single Number III |
-| ðï¸ **SQL** | Combine Two Tables, Employees Earning More, Duplicate Emails |
+| Ã°ÂÂÂ¢ **Arrays & Hashing** | Two Sum, Product of Array Except Self, Contains Duplicate |
+| Ã°ÂÂªÂ **Sliding Window** | Longest Substring Without Repeating, Max Average Subarray |
+| Ã°ÂÂÂ **Binary Search** | Search in Rotated Array, Koko Eating Bananas, Find Peak Element |
+| Ã°ÂÂÂ **Linked Lists** | Merge K Sorted Lists, Reverse Linked List, LRU Cache |
+| Ã°ÂÂÂ³ **Trees & BST** | Max Depth, Level Order Traversal, Validate BST |
+| Ã°ÂÂÂ **Graphs & BFS/DFS** | Number of Islands, Course Schedule, Pacific Atlantic Flow |
+| Ã¢ÂÂ¡ **Dynamic Programming** | Coin Change, Longest Increasing Subsequence, House Robber |
+| Ã°ÂÂÂ¯ **Greedy** | Jump Game, Gas Station, Queue Reconstruction |
+| Ã°ÂÂÂ **Stack & Queue** | Valid Parentheses, Trapping Rain Water, Evaluate RPN |
+| Ã°ÂÂÂ **Backtracking** | Permutations, Combination Sum, Sudoku Solver |
+| Ã°ÂÂÂ¡ **Math & Bit Manipulation** | Power of Two, Missing Number, Single Number III |
+| Ã°ÂÂÂÃ¯Â¸Â **SQL** | Combine Two Tables, Employees Earning More, Duplicate Emails |
 
 ---
 
-## ð§© Problem Distribution
+## Ã°ÂÂ§Â© Problem Distribution
 
 | Difficulty | Count | Badge |
 |:----------:|:-----:|:-----:|
-| ð¢ Easy    | ~150  | ![Easy](https://img.shields.io/badge/Easy-150%2B-00b8a3?style=flat-square) |
-| ð¡ Medium  | ~220  | ![Medium](https://img.shields.io/badge/Medium-220%2B-ffc01e?style=flat-square) |
-| ð´ Hard    | ~80   | ![Hard](https://img.shields.io/badge/Hard-80%2B-ef4743?style=flat-square) |
+| Ã°ÂÂÂ¢ Easy    | ~150  | ![Easy](https://img.shields.io/badge/Easy-150%2B-00b8a3?style=flat-square) |
+| Ã°ÂÂÂ¡ Medium  | ~220  | ![Medium](https://img.shields.io/badge/Medium-220%2B-ffc01e?style=flat-square) |
+| Ã°ÂÂÂ´ Hard    | ~80   | ![Hard](https://img.shields.io/badge/Hard-80%2B-ef4743?style=flat-square) |
 
 ---
 
-## ð ï¸ Tech Stack
+## Ã°ÂÂÂ Ã¯Â¸Â Tech Stack
 
 | Tool | Purpose |
 |------|---------|
-| â **Java** | Primary solution language (454+ solutions) |
-| ð **Python** | Alternative solutions for select problems |
-| ðï¸ **SQL** | Database / query problems |
-| âï¸ **GitHub Actions** | Auto-sync with LeetCode via `leetcode.yml` |
+| Ã¢ÂÂ **Java** | Primary solution language (454+ solutions) |
+| Ã°ÂÂÂ **Python** | Alternative solutions for select problems |
+| Ã°ÂÂÂÃ¯Â¸Â **SQL** | Database / query problems |
+| Ã¢ÂÂÃ¯Â¸Â **GitHub Actions** | Auto-sync with LeetCode via `leetcode.yml` |
 
 ---
 
-## ð Highlighted Problems
+## Ã°ÂÂÂ Highlighted Problems
 
 A few of the more interesting challenges in this repo:
 
 | # | Problem | Difficulty | Topic |
 |---|---------|:----------:|-------|
-| 4 | [Median of Two Sorted Arrays](./4-MedianOfTwoSortedArrays/) | ð´ Hard | Binary Search |
-| 42 | [Trapping Rain Water](./42-TrappingRainWater/) | ð´ Hard | Stack / Two Pointers |
-| 23 | [Merge K Sorted Lists](./23-merge-k-sorted-lists/) | ð´ Hard | Heap / Linked List |
-| 32 | [Longest Valid Parentheses](./32-LongestValidParentheses/) | ð´ Hard | Stack / DP |
-| 37 | [Sudoku Solver](./37-SudokuSolver/) | ð´ Hard | Backtracking |
-| 300 | [Longest Increasing Subsequence](./300-LongestIncreasingSubsequence/) | ð¡ Medium | DP / Binary Search |
-| 127 | [Word Ladder](./127-word-ladder/) | ð¡ Medium | BFS / Graph |
-| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | ð´ Hard | Deque |
-| 322 | [Coin Change](./322-CoinChange/) | ð¡ Medium | Dynamic Programming |
-| 1 | [Two Sum](./1-TwoSum/) | ð¢ Easy | Hashing |
+| 4 | [Median of Two Sorted Arrays](./4-MedianOfTwoSortedArrays/) | Ã°ÂÂÂ´ Hard | Binary Search |
+| 42 | [Trapping Rain Water](./42-TrappingRainWater/) | Ã°ÂÂÂ´ Hard | Stack / Two Pointers |
+| 23 | [Merge K Sorted Lists](./23-merge-k-sorted-lists/) | Ã°ÂÂÂ´ Hard | Heap / Linked List |
+| 32 | [Longest Valid Parentheses](./32-LongestValidParentheses/) | Ã°ÂÂÂ´ Hard | Stack / DP |
+| 37 | [Sudoku Solver](./37-SudokuSolver/) | Ã°ÂÂÂ´ Hard | Backtracking |
+| 300 | [Longest Increasing Subsequence](./300-LongestIncreasingSubsequence/) | Ã°ÂÂÂ¡ Medium | DP / Binary Search |
+| 127 | [Word Ladder](./127-word-ladder/) | Ã°ÂÂÂ¡ Medium | BFS / Graph |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | Ã°ÂÂÂ´ Hard | Deque |
+| 322 | [Coin Change](./322-CoinChange/) | Ã°ÂÂÂ¡ Medium | Dynamic Programming |
+| 1 | [Two Sum](./1-TwoSum/) | Ã°ÂÂÂ¢ Easy | Hashing |
 
 ---
 
-## ð Progress Timeline
+## Ã°ÂÂÂ Progress Timeline
 
 ```
-2024  ââââââââââââââââââââââââââââââââââââââââââââââââ 2025 âââº Present
-  [âââââââââââ] Start          [ââââââââââââ] 300+         [ââââââââââââââ] 450+
+2024  Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ 2025 Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂº Present
+  [Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ] Start          [Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ] 300+         [Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ] 450+
 ```
 
-Building consistency, one problem at a time. ðï¸
+Building consistency, one problem at a time. Ã°ÂÂÂÃ¯Â¸Â
 
 ---
 
-## ð§­ How to Use This Repo
+## Ã°ÂÂ§Â­ How to Use This Repo
 
 1. **Find a problem** by number or name using GitHub's search bar or by folder
-2. **Study the solution** â code is clean and self-documenting
-3. **Run it yourself** â paste into your IDE or LeetCode's code editor
-4. **Star the repo** if you find it useful â­
+2. **Study the solution** Ã¢ÂÂ code is clean and self-documenting
+3. **Run it yourself** Ã¢ÂÂ paste into your IDE or LeetCode's code editor
+4. **Star the repo** if you find it useful Ã¢Â­Â
 
 ---
 
-## ð¤ Connect
+## Ã°ÂÂ¤Â Connect
 
 <p align="center">
   <a href="https://leetcode.com/SHIKHAR_SHAURYA/">
@@ -151,8 +151,8 @@ Building consistency, one problem at a time. ðï¸
 </p>
 
 <p align="center">
-  <strong>Built with ð¥ discipline, â coffee, and relentless consistency.</strong><br/>
-  <sub>If this helped you â drop a â­ on the repo. It means the world.</sub>
+  <strong>Built with Ã°ÂÂÂ¥ discipline, Ã¢ÂÂ coffee, and relentless consistency.</strong><br/>
+  <sub>If this helped you Ã¢ÂÂ drop a Ã¢Â­Â on the repo. It means the world.</sub>
 </p>
 
 ---
@@ -185,27 +185,27 @@ Building consistency, one problem at a time. ðï¸
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+
 <!--LeetCode Topics End-->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0096-unique-binary-search-trees) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
@@ -217,6 +217,11 @@ Building consistency, one problem at a time. ðï¸
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0096-unique-binary-search-trees) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
