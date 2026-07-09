@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
