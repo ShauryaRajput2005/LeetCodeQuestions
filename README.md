@@ -17,4 +17,5 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
