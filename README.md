@@ -23,16 +23,20 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
