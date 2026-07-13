@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
+| [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
+## Hash Table
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
