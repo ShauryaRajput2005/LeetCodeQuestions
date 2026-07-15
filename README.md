@@ -48,4 +48,12 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
