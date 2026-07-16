@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
