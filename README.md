@@ -6,6 +6,7 @@
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,12 +49,23 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
