@@ -25,6 +25,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -78,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Stack
@@ -95,4 +97,16 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
