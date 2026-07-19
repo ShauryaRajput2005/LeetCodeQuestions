@@ -75,4 +75,20 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
