@@ -7,6 +7,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -117,4 +120,13 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
