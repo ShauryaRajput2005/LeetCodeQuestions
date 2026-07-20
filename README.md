@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
