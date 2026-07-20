@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
@@ -13,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -110,6 +112,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
