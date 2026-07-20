@@ -30,11 +30,13 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
@@ -107,6 +110,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
+| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
