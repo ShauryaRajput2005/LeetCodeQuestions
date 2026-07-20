@@ -6,6 +6,7 @@
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
+| [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
+| [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
 ## Database
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
