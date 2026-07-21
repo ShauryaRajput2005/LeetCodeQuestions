@@ -92,6 +92,7 @@
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -136,4 +137,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3805-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
