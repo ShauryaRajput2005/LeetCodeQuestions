@@ -8,6 +8,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -16,11 +17,13 @@
 | ------- |
 | [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 ## Database
 |  |
 | ------- |
