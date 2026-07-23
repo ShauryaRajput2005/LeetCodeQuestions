@@ -40,6 +40,7 @@
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
