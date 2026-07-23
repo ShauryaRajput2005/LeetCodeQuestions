@@ -1,152 +1,193 @@
+<div align="center">
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0221-maximal-square](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0221-maximal-square) |
-| [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
-| [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
-| [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
-| [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
-| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
-| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
-| [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
-| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0221-maximal-square](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0221-maximal-square) |
-| [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
-| [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
-| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
-## Matrix
-|  |
-| ------- |
-| [0221-maximal-square](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0221-maximal-square) |
-| [1234-number-of-paths-with-max-score](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1234-number-of-paths-with-max-score) |
-| [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
-| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
-## Database
-|  |
-| ------- |
-| [0178-rank-scores](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0178-rank-scores) |
-| [0184-department-highest-salary](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0184-department-highest-salary) |
-| [0196-delete-duplicate-emails](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0196-delete-duplicate-emails) |
-## Depth-First Search
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
-| [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
-| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
-| [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
-| [2438-find-closest-node-to-given-two-nodes](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2438-find-closest-node-to-given-two-nodes) |
-| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
-| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
-| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
-## Union-Find
-|  |
-| ------- |
-| [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
-| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
-## Graph Theory
-|  |
-| ------- |
-| [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
-| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
-| [2438-find-closest-node-to-given-two-nodes](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2438-find-closest-node-to-given-two-nodes) |
-| [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
-## Hash Table
-|  |
-| ------- |
-| [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
-## Sorting
-|  |
-| ------- |
-| [1256-rank-transform-of-an-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1256-rank-transform-of-an-array) |
-| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
-## Math
-|  |
-| ------- |
-| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
-| [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
-| [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
-| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
-## Number Theory
-|  |
-| ------- |
-| [2106-find-greatest-common-divisor-of-array](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
-| [3995-gcd-of-odd-and-even-sums](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3995-gcd-of-odd-and-even-sums) |
-| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
-## Two Pointers
-|  |
-| ------- |
-| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
-## Simulation
-|  |
-| ------- |
-| [1386-shift-2d-grid](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1386-shift-2d-grid) |
-| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
-## Linked List
-|  |
-| ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0083-remove-duplicates-from-sorted-list) |
-## String
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
-| [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-| [3805-maximize-active-section-with-trade-i](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3805-maximize-active-section-with-trade-i) |
-## Stack
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-## Greedy
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0316-remove-duplicate-letters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
-| [1159-smallest-subsequence-of-distinct-characters](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
-## Backtracking
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
-| [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
-| [0494-target-sum](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0494-target-sum) |
-| [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
-| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
-## Tree
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
-| [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
-| [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0401-binary-watch](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0401-binary-watch) |
-| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
-## Combinatorics
-|  |
-| ------- |
-| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
-## Enumeration
-|  |
-| ------- |
-| [1993-sum-of-all-subset-xor-totals](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1993-sum-of-all-subset-xor-totals) |
-| [3805-maximize-active-section-with-trade-i](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3805-maximize-active-section-with-trade-i) |
-<!---LeetCode Topics End-->
+# ⚔️ Algorithm Atlas
+
+### A structured journey through Data Structures, Algorithms, and Problem Solving
+
+[![LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Focus](https://img.shields.io/badge/Focus-DSA-2563EB?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Active-16A34A?style=for-the-badge)]()
+
+</div>
+
+---
+
+# 🧠 About
+
+This repository is my personal archive of solving Data Structures and Algorithms problems.
+
+The goal is not just to collect solved problems, but to build a deep understanding of reusable problem-solving patterns.
+
+Every solution represents:
+
+- A learned algorithmic pattern
+- An optimization decision
+- A step towards stronger problem-solving intuition
+
+> **"Understand the pattern, not the problem.  
+> A solved problem is a data point; a learned pattern is leverage."**
+
+---
+
+# 📊 Progress Snapshot
+
+| Metric | Details |
+|--------|---------|
+| Problems Solved | Updating regularly |
+| Primary Language | Java |
+| Core Areas | DSA, Algorithms, SQL |
+| Current Focus | Dynamic Programming, Graph Algorithms |
+| Repository Type | Learning + Reference Archive |
+
+---
+
+# 🗺️ Learning Roadmap
+
+```
+FOUNDATION
+│
+├── Arrays & Hashing
+├── Two Pointers
+├── Sliding Window
+├── Stack & Queue
+├── Binary Search
+│
+▼
+
+INTERMEDIATE
+│
+├── Trees
+├── Graph Traversal
+├── BFS / DFS
+├── Backtracking
+├── Heap & Greedy
+│
+▼
+
+ADVANCED
+│
+├── Dynamic Programming
+├── Union Find
+├── Advanced Graph Algorithms
+├── Segment Trees
+├── String Algorithms
+```
+
+---
+
+# 🧩 Pattern Library
+
+Solutions are organized by algorithmic patterns instead of only problem numbers.
+
+| Pattern | Description |
+|---|---|
+| Arrays & Hashing | Frequency maps, prefix sums, sorting |
+| Sliding Window | Fixed and variable window techniques |
+| Binary Search | Search space optimization |
+| Trees | Traversals, recursion, BST patterns |
+| Graphs | BFS, DFS, shortest paths, connectivity |
+| Dynamic Programming | State transitions and optimization |
+| Backtracking | Recursive exploration and pruning |
+| SQL | Queries, joins, aggregations |
+
+Full problem index:
+
+➡️ [View Complete Topics Index](./TOPICS.md)
+
+---
+
+# 📚 Repository Structure
+
+```
+.
+├── README.md
+│
+├── TOPICS.md
+│
+├── Arrays/
+├── Dynamic-Programming/
+├── Graphs/
+├── Trees/
+├── Backtracking/
+├── Binary-Search/
+└── SQL/
+```
+
+Each solution focuses on:
+
+```
+Problem
+│
+├── Approach
+├── Algorithm
+├── Complexity Analysis
+└── Implementation
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+
+</p>
+
+---
+
+# 📖 How To Navigate
+
+### 1. Browse by Pattern
+
+Start from:
+
+```
+TOPICS.md
+```
+
+Choose a category and explore problems.
+
+---
+
+### 2. Understand Before Memorizing
+
+For every problem:
+
+- Identify the pattern
+- Understand the intuition
+- Analyze complexity
+- Implement the solution
+
+---
+
+### 3. Use This Repository As Reference
+
+This repository is designed as:
+
+- A revision guide
+- An algorithm notebook
+- A pattern recognition library
+
+---
+
+# 🚀 Future Goals
+
+- [ ] Complete major DSA patterns
+- [ ] Improve problem-solving speed
+- [ ] Add detailed intuition notes
+- [ ] Build algorithm pattern summaries
+- [ ] Master advanced graph algorithms
+- [ ] Maintain consistent problem-solving practice
+
+---
+
+<div align="center">
+
+### Crafted with curiosity. Maintained with discipline.
+
+</div>
