@@ -39,6 +39,7 @@
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0801-is-graph-bipartite](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0813-all-paths-from-source-to-target) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -126,10 +127,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
