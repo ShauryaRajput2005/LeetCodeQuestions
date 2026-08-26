@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Algorithm Atlas
+# âï¸ Algorithm Atlas
 
 ### A structured journey through Data Structures, Algorithms, and Problem Solving
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 🧠 About
+# ð§  About
 
 This repository is my personal archive of solving Data Structures and Algorithms problems.
 
@@ -29,7 +29,7 @@ Every solution represents:
 
 ---
 
-# 📊 Progress Snapshot
+# ð Progress Snapshot
 
 | Metric | Details |
 |--------|---------|
@@ -41,41 +41,41 @@ Every solution represents:
 
 ---
 
-# 🗺️ Learning Roadmap
+# ðºï¸ Learning Roadmap
 
 ```
 FOUNDATION
-│
-├── Arrays & Hashing
-├── Two Pointers
-├── Sliding Window
-├── Stack & Queue
-├── Binary Search
-│
-▼
+â
+âââ Arrays & Hashing
+âââ Two Pointers
+âââ Sliding Window
+âââ Stack & Queue
+âââ Binary Search
+â
+â¼
 
 INTERMEDIATE
-│
-├── Trees
-├── Graph Traversal
-├── BFS / DFS
-├── Backtracking
-├── Heap & Greedy
-│
-▼
+â
+âââ Trees
+âââ Graph Traversal
+âââ BFS / DFS
+âââ Backtracking
+âââ Heap & Greedy
+â
+â¼
 
 ADVANCED
-│
-├── Dynamic Programming
-├── Union Find
-├── Advanced Graph Algorithms
-├── Segment Trees
-├── String Algorithms
+â
+âââ Dynamic Programming
+âââ Union Find
+âââ Advanced Graph Algorithms
+âââ Segment Trees
+âââ String Algorithms
 ```
 
 ---
 
-# 🧩 Pattern Library
+# ð§© Pattern Library
 
 Solutions are organized by algorithmic patterns instead of only problem numbers.
 
@@ -92,41 +92,41 @@ Solutions are organized by algorithmic patterns instead of only problem numbers.
 
 Full problem index:
 
-➡️ [View Complete Topics Index](./TOPICS.md)
+â¡ï¸ [View Complete Topics Index](./TOPICS.md)
 
 ---
 
-# 📚 Repository Structure
+# ð Repository Structure
 
 ```
 .
-├── README.md
-│
-├── TOPICS.md
-│
-├── Arrays/
-├── Dynamic-Programming/
-├── Graphs/
-├── Trees/
-├── Backtracking/
-├── Binary-Search/
-└── SQL/
+âââ README.md
+â
+âââ TOPICS.md
+â
+âââ Arrays/
+âââ Dynamic-Programming/
+âââ Graphs/
+âââ Trees/
+âââ Backtracking/
+âââ Binary-Search/
+âââ SQL/
 ```
 
 Each solution focuses on:
 
 ```
 Problem
-│
-├── Approach
-├── Algorithm
-├── Complexity Analysis
-└── Implementation
+â
+âââ Approach
+âââ Algorithm
+âââ Complexity Analysis
+âââ Implementation
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# ð ï¸ Tech Stack
 
 <p>
 
@@ -140,7 +140,7 @@ Problem
 
 ---
 
-# 📖 How To Navigate
+# ð How To Navigate
 
 ### 1. Browse by Pattern
 
@@ -175,7 +175,7 @@ This repository is designed as:
 
 ---
 
-# 🚀 Future Goals
+# ð Future Goals
 
 - [ ] Complete major DSA patterns
 - [ ] Improve problem-solving speed
@@ -191,3 +191,15 @@ This repository is designed as:
 ### Crafted with curiosity. Maintained with discipline.
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+<!---LeetCode Topics End-->
