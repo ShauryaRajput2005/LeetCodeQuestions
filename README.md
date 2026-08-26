@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ã¢ÂÂÃ¯Â¸Â Algorithm Atlas
+# ÃÂ¢ÃÂÃÂÃÂ¯ÃÂ¸ÃÂ Algorithm Atlas
 
 ### A structured journey through Data Structures, Algorithms, and Problem Solving
 
@@ -12,7 +12,7 @@
 
 ---
 
-# Ã°ÂÂ§Â  About
+# ÃÂ°ÃÂÃÂ§ÃÂ  About
 
 This repository is my personal archive of solving Data Structures and Algorithms problems.
 
@@ -29,7 +29,7 @@ Every solution represents:
 
 ---
 
-# Ã°ÂÂÂ Progress Snapshot
+# ÃÂ°ÃÂÃÂÃÂ Progress Snapshot
 
 | Metric | Details |
 |--------|---------|
@@ -41,41 +41,41 @@ Every solution represents:
 
 ---
 
-# Ã°ÂÂÂºÃ¯Â¸Â Learning Roadmap
+# ÃÂ°ÃÂÃÂÃÂºÃÂ¯ÃÂ¸ÃÂ Learning Roadmap
 
 ```
 FOUNDATION
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Arrays & Hashing
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Two Pointers
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Sliding Window
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Stack & Queue
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Binary Search
-Ã¢ÂÂ
-Ã¢ÂÂ¼
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Arrays & Hashing
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Two Pointers
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Sliding Window
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Stack & Queue
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Binary Search
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂ¼
 
 INTERMEDIATE
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Trees
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Graph Traversal
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ BFS / DFS
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Backtracking
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Heap & Greedy
-Ã¢ÂÂ
-Ã¢ÂÂ¼
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Trees
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Graph Traversal
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ BFS / DFS
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Backtracking
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Heap & Greedy
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂ¼
 
 ADVANCED
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Dynamic Programming
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Union Find
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Advanced Graph Algorithms
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Segment Trees
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ String Algorithms
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Dynamic Programming
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Union Find
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Advanced Graph Algorithms
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Segment Trees
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ String Algorithms
 ```
 
 ---
 
-# Ã°ÂÂ§Â© Pattern Library
+# ÃÂ°ÃÂÃÂ§ÃÂ© Pattern Library
 
 Solutions are organized by algorithmic patterns instead of only problem numbers.
 
@@ -92,41 +92,41 @@ Solutions are organized by algorithmic patterns instead of only problem numbers.
 
 Full problem index:
 
-Ã¢ÂÂ¡Ã¯Â¸Â [View Complete Topics Index](./TOPICS.md)
+ÃÂ¢ÃÂÃÂ¡ÃÂ¯ÃÂ¸ÃÂ [View Complete Topics Index](./TOPICS.md)
 
 ---
 
-# Ã°ÂÂÂ Repository Structure
+# ÃÂ°ÃÂÃÂÃÂ Repository Structure
 
 ```
 .
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TOPICS.md
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Arrays/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Dynamic-Programming/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Graphs/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Trees/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Backtracking/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Binary-Search/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ SQL/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ README.md
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ TOPICS.md
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Arrays/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Dynamic-Programming/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Graphs/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Trees/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Backtracking/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Binary-Search/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ SQL/
 ```
 
 Each solution focuses on:
 
 ```
 Problem
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Approach
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Algorithm
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Complexity Analysis
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Implementation
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Approach
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Algorithm
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Complexity Analysis
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Implementation
 ```
 
 ---
 
-# Ã°ÂÂÂ Ã¯Â¸Â Tech Stack
+# ÃÂ°ÃÂÃÂÃÂ ÃÂ¯ÃÂ¸ÃÂ Tech Stack
 
 <p>
 
@@ -140,7 +140,7 @@ Problem
 
 ---
 
-# Ã°ÂÂÂ How To Navigate
+# ÃÂ°ÃÂÃÂÃÂ How To Navigate
 
 ### 1. Browse by Pattern
 
@@ -175,7 +175,7 @@ This repository is designed as:
 
 ---
 
-# Ã°ÂÂÂ Future Goals
+# ÃÂ°ÃÂÃÂÃÂ Future Goals
 
 - [ ] Complete major DSA patterns
 - [ ] Improve problem-solving speed
