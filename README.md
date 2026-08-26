@@ -1,6 +1,6 @@
 <div align="center">
 
-# âï¸ Algorithm Atlas
+# Ã¢ÂÂÃ¯Â¸Â Algorithm Atlas
 
 ### A structured journey through Data Structures, Algorithms, and Problem Solving
 
@@ -12,7 +12,7 @@
 
 ---
 
-# ð§  About
+# Ã°ÂÂ§Â  About
 
 This repository is my personal archive of solving Data Structures and Algorithms problems.
 
@@ -29,7 +29,7 @@ Every solution represents:
 
 ---
 
-# ð Progress Snapshot
+# Ã°ÂÂÂ Progress Snapshot
 
 | Metric | Details |
 |--------|---------|
@@ -41,41 +41,41 @@ Every solution represents:
 
 ---
 
-# ðºï¸ Learning Roadmap
+# Ã°ÂÂÂºÃ¯Â¸Â Learning Roadmap
 
 ```
 FOUNDATION
-â
-âââ Arrays & Hashing
-âââ Two Pointers
-âââ Sliding Window
-âââ Stack & Queue
-âââ Binary Search
-â
-â¼
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Arrays & Hashing
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Two Pointers
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Sliding Window
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Stack & Queue
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Binary Search
+Ã¢ÂÂ
+Ã¢ÂÂ¼
 
 INTERMEDIATE
-â
-âââ Trees
-âââ Graph Traversal
-âââ BFS / DFS
-âââ Backtracking
-âââ Heap & Greedy
-â
-â¼
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Trees
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Graph Traversal
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ BFS / DFS
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Backtracking
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Heap & Greedy
+Ã¢ÂÂ
+Ã¢ÂÂ¼
 
 ADVANCED
-â
-âââ Dynamic Programming
-âââ Union Find
-âââ Advanced Graph Algorithms
-âââ Segment Trees
-âââ String Algorithms
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Dynamic Programming
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Union Find
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Advanced Graph Algorithms
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Segment Trees
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ String Algorithms
 ```
 
 ---
 
-# ð§© Pattern Library
+# Ã°ÂÂ§Â© Pattern Library
 
 Solutions are organized by algorithmic patterns instead of only problem numbers.
 
@@ -92,41 +92,41 @@ Solutions are organized by algorithmic patterns instead of only problem numbers.
 
 Full problem index:
 
-â¡ï¸ [View Complete Topics Index](./TOPICS.md)
+Ã¢ÂÂ¡Ã¯Â¸Â [View Complete Topics Index](./TOPICS.md)
 
 ---
 
-# ð Repository Structure
+# Ã°ÂÂÂ Repository Structure
 
 ```
 .
-âââ README.md
-â
-âââ TOPICS.md
-â
-âââ Arrays/
-âââ Dynamic-Programming/
-âââ Graphs/
-âââ Trees/
-âââ Backtracking/
-âââ Binary-Search/
-âââ SQL/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TOPICS.md
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Arrays/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Dynamic-Programming/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Graphs/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Trees/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Backtracking/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Binary-Search/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ SQL/
 ```
 
 Each solution focuses on:
 
 ```
 Problem
-â
-âââ Approach
-âââ Algorithm
-âââ Complexity Analysis
-âââ Implementation
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Approach
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Algorithm
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Complexity Analysis
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Implementation
 ```
 
 ---
 
-# ð ï¸ Tech Stack
+# Ã°ÂÂÂ Ã¯Â¸Â Tech Stack
 
 <p>
 
@@ -140,7 +140,7 @@ Problem
 
 ---
 
-# ð How To Navigate
+# Ã°ÂÂÂ How To Navigate
 
 ### 1. Browse by Pattern
 
@@ -175,7 +175,7 @@ This repository is designed as:
 
 ---
 
-# ð Future Goals
+# Ã°ÂÂÂ Future Goals
 
 - [ ] Complete major DSA patterns
 - [ ] Improve problem-solving speed
@@ -202,4 +202,20 @@ This repository is designed as:
 |  |
 | ------- |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Array
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/ShauryaRajput2005/LeetCodeQuestions/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
